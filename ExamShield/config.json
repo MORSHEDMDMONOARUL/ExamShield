@@ -1,0 +1,38 @@
+{
+    "system": {
+        "debug_mode": true,
+        "log_level": "INFO",
+        "data_retention_days": 30
+    },
+    "esp32": {
+        "serial_ports": [
+            "/dev/ttyUSB0",
+            "/dev/ttyUSB1",
+            "/dev/ttyUSB2",
+            "/dev/ttyUSB3"
+        ],
+        "baud_rate": 115200,
+        "scan_interval": 5,
+        "rssi_threshold": -80
+    },
+    "thermal": {
+        "i2c_address": "0x33",
+        "refresh_rate": 4,
+        "temp_threshold": 30,
+        "hotspot_min_size": 3,
+        "hotspot_max_size": 20
+    },
+    "alert": {
+        "servo_pin_x": 11,
+        "servo_pin_y": 13,
+        "laser_pin": 15,
+        "buzzer_pin": 16,
+        "led_pin": 18,
+        "alert_duration": 5
+    },
+    "detection": {
+        "confidence_threshold": 0.7,
+        "correlation_distance_threshold": 50,
+        "min_detection_time": 2
+    }
+}

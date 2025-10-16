@@ -1,0 +1,12 @@
+# ExamShield Requirements
+numpy>=1.21.0
+opencv-python>=4.5.0
+matplotlib>=3.3.0
+pyserial>=3.5
+adafruit-circuitpython-mlx90640>=1.2.0
+adafruit-blinka>=6.0.0
+RPi.GPIO>=0.7.0
+tkinter  # Usually comes with Python
+scipy>=1.7.0
+adafruit-circuitpython-busdevice>=5.0.0
+adafruit-circuitpython-register>=1.9.0
