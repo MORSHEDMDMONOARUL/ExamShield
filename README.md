@@ -52,7 +52,7 @@ ExamShield is an advanced IoT-based detection system designed to identify unauth
 - Continuous device discovery and RSSI reporting
 - Serial communication with Raspberry Pi
 
-## ðŸ”§ Installation & Setup
+## Installation & Setup
 
 ### Prerequisites
 
