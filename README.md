@@ -404,7 +404,7 @@ of this software... (see LICENSE file for full text)
 
 **Morshed MD Monoarul** - Sejong University
 - GitHub: [@MORSHEDMDMONOARUL](https://github.com/MORSHEDMDMONOARUL)
-- Email: your.email@example.com
+- Email: monoarulmorshed@gmail.com
 - Institution: [Sejong University](https://www.sejong.ac.kr/)
 
 **Project Link**: [https://github.com/MORSHEDMDMONOARUL/ExamShield](https://github.com/MORSHEDMDMONOARUL/ExamShield)
