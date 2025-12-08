@@ -1,0 +1,13 @@
+timestamp,camera_id,student_id,class,priority,confidence,avg_confidence,risk_score,photo_number,description
+20251127_180134,1,0,earphone,1,0.53,0.53,53,1,Earphone/earbud detected
+20251127_180134,1,0,earphone,1,0.33,0.44,44,2,Earphone/earbud detected
+20251127_180134,1,0,earphone,1,0.56,0.55,55,3,Earphone/earbud detected
+20251127_180149,1,0,phone,1,0.71,0.54,54,1,Mobile phone usage
+20251127_180149,1,0,phone,1,0.70,0.71,71,2,Mobile phone usage
+20251127_180154,1,0,earphone,1,0.37,0.74,74,1,Earphone/earbud detected
+20251127_180220,1,0,phone,1,0.79,0.73,73,1,Mobile phone usage
+20251127_180223,1,0,earphone,1,0.32,0.75,73,1,Earphone/earbud detected
+20251127_180223,1,0,earphone,1,0.30,0.60,63,2,Earphone/earbud detected
+20251127_180223,1,0,earphone,1,0.31,0.42,42,3,Earphone/earbud detected
+20251127_180243,1,0,phone,1,0.56,0.39,39,1,Mobile phone usage
+20251127_180243,1,0,phone,1,0.79,0.43,43,2,Mobile phone usage

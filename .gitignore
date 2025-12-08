@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS
+Thumbs.db
+
+# Logs
+logs/*.log
+
+# Session Data (optional - comment out if you want to keep)
+# session_report.txt
+# proofs/
+# screenshots/
+
+# Model checkpoints (optional - keep for download-ready repo)
+# models/*.pt
+# runs/

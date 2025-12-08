@@ -1,0 +1,45 @@
+============================================================
+EXAMSHIELD - SESSION REPORT
+============================================================
+
+Date: 2025-12-08 16:46:00
+Duration: 0m 11s
+
+Total Frames Processed: 73
+Average FPS: 0.1
+
+Alert Incidents: 0
+Photos Captured: 0
+
+============================================================
+DETECTION CLASSES
+============================================================
+
+phone:
+  Priority: 1
+  Threshold: 45%
+  Description: Mobile phone usage
+
+earphone:
+  Priority: 1
+  Threshold: 30%
+  Description: Earphone/earbud detected
+
+smartwatch:
+  Priority: 2
+  Threshold: 50%
+  Description: Smartwatch usage
+
+headrotation:
+  Priority: 2
+  Threshold: 55%
+  Description: Suspicious head movement
+
+paperpassing:
+  Priority: 3
+  Threshold: 60%
+  Description: Paper exchange detected
+
+============================================================
+End of Report
+============================================================
