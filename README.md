@@ -488,3 +488,17 @@ of this software... (see LICENSE file for full text)
 
 </div>
 
+
+---
+
+## Author
+
+**MD Monoarul Morshed** — AI & Edge Computing Engineer based in Seoul, South Korea.
+Computer Science graduate (Sejong University, 2026) and Teaching Assistant, working on
+trustworthy computer vision, edge AI, post-quantum cryptography, and security-first
+agentic systems.
+
+- Portfolio — [mdmonoarulmorshed.com](https://mdmonoarulmorshed.com)
+- Notes — [mdmonoarulmorshed.com/blog](https://mdmonoarulmorshed.com/blog)
+- GitHub — [@MORSHEDMDMONOARUL](https://github.com/MORSHEDMDMONOARUL)
+- LinkedIn — [md-monoarul-morshed](https://www.linkedin.com/in/md-monoarul-morshed-6a07a6263)
