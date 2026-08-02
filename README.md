@@ -19,6 +19,23 @@
 
 ---
 
+## Architecture
+
+![ExamShield architecture](docs/architecture.png)
+
+Frames from up to sixteen cameras are captured on dedicated threads, so inference
+latency never stalls acquisition. YOLOv8 detects prohibited objects with per-class
+confidence thresholds, centroid tracking keeps a stable identity for each student, and
+behaviour is judged over time rather than per frame.
+
+A second, independent sense runs alongside the cameras: ESP32 nodes scan BLE and sniff
+WiFi, so a device that never becomes visible can still register as present. Vision fails
+on occlusion, radio fails on shielding, and a signal both agree on is worth more than
+either alone.
+
+Alerts are cooldown controlled and carry evidence, a captured frame and a CSV session
+record, because an alert system that cries wolf trains its operator to ignore it.
+
 ## 📋 Table of Contents
 
 - [Overview](#-overview)
